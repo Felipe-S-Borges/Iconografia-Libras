@@ -1,2 +1,6 @@
 # Iconografia-Libras
 Desenvolvimento de uma versão da iconografia da língua de sinais brasileira aplicada a interfaces digitais ou impressa. O projeto foi idealizado para a disciplina de conclusão de curso em Bacharelado em Desenho Industrial da Universidade Federal do Espírito Santo, Brasil.
+
+A família iconografica desenhada no projeto foi o resultado de uma pesquisa junto a alguns usuários da LIBRAS e alguns iterlocutores(itérpretes e professores) de modo a chegar a padrões mínimos de configuração do sistema para a sua aplicação em mídia impressa como, contraste, preenchimento, espessura, opacidade e tamanho bem como mecanismos de representação visual para sugerir a ideia de movimento e sucessão para se construir os elementos componentes de um sinal dentro da LIBRAS(Expressão facial, Movimento, Direcionalidade, Ponto articulatório e Configuração de mãos) para assim construir o conceito de "legibilidade e leiturabilidade" dentro de uma disposição sucessiva de ícones assim como numa frase escrita em texto tipográfico.
+
+O objetivo deste projeto é construir o mecanismo de substituição de uma palava em um texto pelo seu equivalente ícone na LIBRAS construindo assim uma sucessão de figuras para construir uma frase ou um texto.
